@@ -1,7 +1,7 @@
 <header>
     <h1>🤖 AI Agent</h1>
     <p>AI Agent is a <strong>smart conversational chatbot</strong> designed to engage users in interactive dialogues. Built using <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>CSS</strong>, it offers a seamless chat experience. 💬</p>
-    <img src="https://boisterous-axolotl-f0048d.netlify.app/images/chat-interface.png" alt="AI Agent Interface">
+   
 </header>
 
 <section id="features">
