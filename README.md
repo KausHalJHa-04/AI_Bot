@@ -1,21 +1,26 @@
-<h1>AI Agent</h1>
-
+<header>
+    <h1>AI Agent</h1>
     <p>AI Agent is a conversational chatbot designed to engage users in interactive dialogues. Built using JavaScript, HTML, and CSS, it offers a seamless chat experience.</p>
-
     <img src="https://boisterous-axolotl-f0048d.netlify.app/images/chat-interface.png" alt="AI Agent Interface">
+</header>
 
+<section id="features">
     <h2>Features</h2>
     <ul>
         <li><strong>Real-time Chat:</strong> Engage in dynamic conversations with the agent.</li>
         <li><strong>User-friendly Interface:</strong> Clean and intuitive design for easy navigation.</li>
         <li><strong>Responsive Design:</strong> Optimized for both desktop and mobile devices.</li>
     </ul>
+</section>
 
+<section id="demo">
     <h2>Demo</h2>
     <p>Experience the AI Agent live:</p>
     <p><a href="https://boisterous-axolotl-f0048d.netlify.app/" target="_blank">Live Demo</a></p>
     <p><em>Note: The live demo may not be functioning as expected at the moment.</em></p>
+</section>
 
+<section id="installation">
     <h2>Installation</h2>
     <p>To run AI Agent locally:</p>
     <ol>
@@ -27,17 +32,21 @@
         </li>
         <li><strong>Open <code>index.html</code> in Your Browser:</strong>
             <pre><code>open index.html</code></pre>
-            <p>Alternatively, double-click the <code>index.html</code> file to open it in your default browser.</p>
+            <p>Or double-click the <code>index.html</code> file to open it in your default browser.</p>
         </li>
     </ol>
+</section>
 
+<section id="technologies">
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>HTML:</strong> Structure of the web pages.</li>
         <li><strong>CSS:</strong> Styling and layout of the chatbot interface.</li>
         <li><strong>JavaScript:</strong> Functionality and interactivity of the chatbot.</li>
     </ul>
+</section>
 
+<section id="contributing">
     <h2>Contributing</h2>
     <p>Contributions are welcome! To contribute:</p>
     <ol>
@@ -48,6 +57,9 @@
         <li>Push to Your Fork.</li>
         <li>Create a Pull Request.</li>
     </ol>
+</section>
 
+<footer>
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
+</footer>
